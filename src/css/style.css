@@ -1,7 +1,7 @@
 .container {
 	display: flex;
 	width: 100%;
-} 
+}
 
 .container5 {
 	width: 300px;
@@ -23,7 +23,7 @@
 }
 
 .engineer {
-    font-size: 40px;
+	font-size: 40px;
 	color: #CD853F;
 	text-align: center;
 	line-height: 60px;
@@ -54,13 +54,13 @@
 	display: flex;
 	justify-content: center;
 	margin-right: 60px;
-    margin-left: 60px;
-    margin-bottom: 20px;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    text-align: center;
-    min-width: 230px;
+	margin-left: 60px;
+	margin-bottom: 20px;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	text-align: center;
+	min-width: 230px;
 
 }
 
@@ -69,17 +69,17 @@
 	border: 5px solid #A0522D;
 	font-size: 20px;
 	color: #000000;
-	line-height:40px;
+	line-height: 40px;
 	display: flex;
 	justify-content: center;
 	margin-right: 60px;
-    margin-left: 60px;
-    margin-bottom: 20px;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    text-align: center;
-    min-width: 230px;
+	margin-left: 60px;
+	margin-bottom: 20px;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	text-align: center;
+	min-width: 230px;
 	max-height: 900px;
 }
 
@@ -91,19 +91,19 @@
 	display: flex;
 	justify-content: center;
 	margin-right: 60px;
-    margin-left: 60px;
-    margin-bottom: 20px;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    text-align: center;
-    min-width: 250px;
+	margin-left: 60px;
+	margin-bottom: 20px;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	text-align: center;
+	min-width: 250px;
 	max-height: 500px;
 }
 
 .container1 {
 	display: grid;
-	grid-template-columns: repeat(auto-fit,minmax(290px, 1fr));
+	grid-template-columns: repeat(auto-fit, minmax(290px, 1fr));
 }
 
 h1 {
@@ -116,7 +116,7 @@ p {
 	font-weight: 600;
 }
 
-.privet{
+.privet {
 	font-family: 'Cormorant Garamond', serif;
 	font-weight: 500;
 }
@@ -132,48 +132,49 @@ p {
 	text-decoration: none;
 }
 
- .tel:hover{
- 	color: #E6E6FA;
- }
+.tel:hover {
+	color: #E6E6FA;
+}
 
- .emal:hover{
- 	color: #E6E6FA;
- }
+.emal:hover {
+	color: #E6E6FA;
+}
 
- .container2 {
-    display: grid;
-	grid-template-columns: repeat(auto-fit,minmax(30px, 1fr));
+.container2 {
+	display: grid;
+	grid-template-columns: repeat(auto-fit, minmax(30px, 1fr));
 	margin-top: 30px;
 	padding-bottom: 20px;
- }
+}
 
- .links1 {
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    text-align: center;
- }
- .links2 {
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    text-align: center;	
- }
+.links1 {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	text-align: center;
+}
 
- .links3 {
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    text-align: center;
- }
+.links2 {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	text-align: center;
+}
 
- .links4 {
- 	display: flex;
-    flex-direction: column;
-    justify-content: center;
-    text-align: center;
- }
+.links3 {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	text-align: center;
+}
 
- .profil {
+.links4 {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	text-align: center;
+}
+
+.profil {
 	margin-left: 60px;
 }
